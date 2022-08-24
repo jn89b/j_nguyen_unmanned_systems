@@ -20,4 +20,6 @@ Created on Wed Aug 24 09:20:42 2022
 #% Main 
 
 if __name__=='__main__':
-    print("hello world")
+    print("I screwed up")
+    
+    
